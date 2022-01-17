@@ -11,8 +11,7 @@
     "esModuleInterop": true,
     "incremental": true,
     "downlevelIteration": true,
-    "resolveJsonModule": true,
-    "types": ["node"]
+    "resolveJsonModule": true
   },
   "include": ["lib/**/*", "typings/**/*"]
 }
